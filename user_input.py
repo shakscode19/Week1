@@ -1,0 +1,6 @@
+FirstName = input("What is your first name?: ")
+LastName = input("What is your last name?: ")
+Age = input(str("How old are you?: "))
+Location = input("Where do you live?: ")
+print(LastName,)
+print("You are " + Age + " years old and you live at " + Location)
